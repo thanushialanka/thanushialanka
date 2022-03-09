@@ -12,8 +12,9 @@
 <p align="left">
 <a href="https://twitter.com/thanushi_alanka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thanushi_alanka" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/thanushi-alanka/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thanushi-alanka/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/thanushialanka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/thanushialanka" height="30" width="40" /></a>
+<a href="https://kaggle.com/thanushialanka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/thanushialanka" height="30" width="40" /></a>
 <a href="https://medium.com/@alankathanushi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alankathanushi" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/thanushialanka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/thanushialanka" height="30" width="40" /></a>
 </p>
 
 <hr/>
