@@ -4,7 +4,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@alankathanushi](https://medium.com/@alankathanushi)
 
-- 💬 Ask me about **Computer Vision**
+
 
 <hr/>
 <p></p>
